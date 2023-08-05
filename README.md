@@ -24,7 +24,7 @@ The analysis led me to the following findings:
 
 Based on the aforementioned findings, the marketing team could counsider the following recommendations:
 
-1. Offering Pricing Guidance: Considering the average waiting period of 40 days and the 75% likelihood of a vehicle being sold within 53 days, Crankshaft List can proffer pricing guidance to its customers to accelerate their sales. This could required presenting data on average pricing for analogous vehicles, as well as providing tips on competitive pricing strategies.
+1. Offering Pricing Guidance: Considering the average waiting period of 40 days and the 75% likelihood of a vehicle being sold within 53 days, Crankshaft List can offer pricing guidance to its customers to accelerate their sales. This could required presenting data on average pricing for analogous vehicles, as well as providing tips on competitive pricing strategies.
 
 2. Emphasizing Key Vehicle Features: Given the evidence that vehicles with less mileage, superior condition, and younger make generally command higher prices, Crankshaft List should advise sellers to emphasize these traits in their advertisements. This might comprise instructing sellers on how to capture high-quality photographs of a vehicle's interior and exterior and how to underscore important maintenance and repair work.
 
